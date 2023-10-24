@@ -1,1 +1,6 @@
 원본데이터/
+data/
+V4_data/
+data_v3/
+*.text
+*.xlsx
